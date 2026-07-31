@@ -3,7 +3,7 @@ const products = [
     { id: 1, name: "white print", price: 30000, displayPrice: "₦30,000", img: "images/white print.jpg", desc: "Ultra-soft 100% mulberry silk for the ultimate sleep experience" },
     { id: 2, name: "wavy blue pattern", price: 30000, displayPrice: "₦30,000", img: "images/wavy blue pattern.jpg", desc: "Ultra-soft 100% mulberry silk for the ultimate sleep experience" },
     { id: 3, name: "roses on white", price: 30000, displayPrice: "₦30,000", img: "images/roses on white.jpg", desc: "Ultra-soft 100% mulberry silk for the ultimate sleep experience" },
-    { id: 4, name: "radiant orange", price: 30000, displayPrice: "₦30,000", img: "images/radiant orange.jpg", desc: "Ultra-soft 100% mulberry silk for the ultimate sleep experience" },
+    { id: 4, name: "radiant orange", price: 30000, displayPrice: "₦30,000", img: "images/Radiant orange.jpg", desc: "Ultra-soft 100% mulberry silk for the ultimate sleep experience" },
     { id: 5, name: "pink over ash", price: 30000, displayPrice: "₦30,000", img: "images/pink over ash.jpg", desc: "Ultra-soft 100% mulberry silk for the ultimate sleep experience" },
     { id: 6, name: "green pastures", price: 30000, displayPrice: "₦30,000", img: "images/green pastures.jpg", desc: "Ultra-soft 100% mulberry silk for the ultimate sleep experience" },
     { id: 7, name: "flower sticks on white", price: 30000, displayPrice: "₦30,000", img: "images/flower sticks on white.jpg", desc: "Ultra-soft 100% mulberry silk for the ultimate sleep experience" },
