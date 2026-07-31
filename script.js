@@ -1,6 +1,6 @@
 // sc// script.js
 const products = [
-    { id: 1, name: "white print", price: 30000, displayPrice: "₦30,000", img: "images/white print", desc: "Ultra-soft 100% mulberry silk for the ultimate sleep experience" },
+    { id: 1, name: "white print", price: 30000, displayPrice: "₦30,000", img: "images/white print.jpg", desc: "Ultra-soft 100% mulberry silk for the ultimate sleep experience" },
     { id: 2, name: "wavy blue pattern", price: 30000, displayPrice: "₦30,000", img: "images/wavy blue pattern.jpg", desc: "Ultra-soft 100% mulberry silk for the ultimate sleep experience" },
     { id: 3, name: "roses on white", price: 30000, displayPrice: "₦30,000", img: "images/roses on white.jpg", desc: "Ultra-soft 100% mulberry silk for the ultimate sleep experience" },
     { id: 4, name: "radiant orange", price: 30000, displayPrice: "₦30,000", img: "images/radiant orange.jpg", desc: "Ultra-soft 100% mulberry silk for the ultimate sleep experience" },
